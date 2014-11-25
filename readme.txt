@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 the first modifie
 the second modife
+this will make a mistake
